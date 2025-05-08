@@ -1,0 +1,59 @@
+:root {
+    
+            --font-family: "Roboto", sans-serif;
+            --second-family: "Raleway", sans-serif;
+    
+    --text-color:#212121;
+    --header-and-footer-color:#757575;
+    --main-color:white;
+    --achent-color:#2196F3;
+    --text-variant-2-color:#000000;
+    --foter-and-main-color:#2F303A;
+}
+
+span {
+color: var(--achent-color);
+}
+
+body {
+
+    font-family: ‘Inter’;
+
+}
+
+
+
+header {
+    color: var(--header-and-footer-color);
+}
+
+.header_logo {
+    font-family: var(--second-family);
+        font-weight: 700;
+        font-size: 26px;
+        letter-spacing: 0.03em;
+        color: #2196f3;
+}
+
+.header_link {
+    font-family: var(--font-family);
+        font-weight: 500;
+        font-size: 14px;
+        letter-spacing: 0.02em;
+        color: #212121;
+}
+
+.title {
+    font-family: var(--font-family);
+        font-weight: 900;
+        font-size: 44px;
+        line-height: 136%;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        text-align: center;
+        color: #fff;
+}
+
+.section-info {
+  
+}
