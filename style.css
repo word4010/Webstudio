@@ -216,6 +216,11 @@ img {
     background-color: var(--light-bg-color);
 }
 
+.main{
+    padding-top: 94px;
+padding-bottom: 94px;
+}
+
 
 .main_list{
     display: flex;
